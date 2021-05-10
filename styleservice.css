@@ -1,0 +1,35 @@
+body{
+            background-image:  url("servicesp.jpg");
+            border-style:double;
+            border-color:yellow;
+            border-width:10px;
+            padding:16px 20px 24px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding: 30px;
+    background-color: rgb(10,30,20);
+    background-size:50px 50px;}
+
+
+
+body {
+    margin: 0px;
+}
+
+
+
+p{
+     width: 400px;
+     border: 15px solid white;
+     padding: 30px;
+     margin: 10px;
+}
+
+
